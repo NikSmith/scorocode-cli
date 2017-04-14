@@ -1,5 +1,8 @@
-##Install
+# Install
 
 
-##Usage
+## Usage
+
 scorocode fetch --appId= --clientKey= --accessKey= --dir=
+
+scorocode publish --dir=
